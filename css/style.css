@@ -1,0 +1,42 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Oswald', sans-serif;
+font-size: large;
+}
+
+.navbar{
+
+position: sticky;
+
+}
+
+.carousel-item img {
+
+height: 93vh;
+width: 100%;
+
+} 
+.card-img{
+
+width: 100%;
+height: 100%;
+}
+
+.misson{
+margin: auto;
+justify-content: center;
+    text-align: center;
+    
+}
+.content{
+
+align-content: center;
+
+}
+.btn{
+justify-content: center;
+align-items: center;
+margin: auto;
+}
